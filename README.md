@@ -8,4 +8,4 @@ Certain columns, like ‘cast’ and ‘genres’, contain multiple values separ
 There are some odd characters in the ‘cast’ column. 
 The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars.
 
-The .html file contains the final output, and code can be found in .ipynb file.
+The .html file contains the final output, and code can be found in .ipynb file. Dataset can be found in .csv file.
